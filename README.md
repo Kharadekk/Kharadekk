@@ -40,10 +40,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,,nodejs,git,github,vscode,linux,aws,docker,arduino" />
-</p>
-
 ---
 
 ## 🧠 Currently Learning
