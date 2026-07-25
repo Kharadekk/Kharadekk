@@ -39,6 +39,13 @@
   <img src="https://streak-stats.demolab.com?user=Kharadekk&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kharadekk&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 
 ---
 
