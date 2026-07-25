@@ -76,13 +76,6 @@
   </a>
 </p>
 
-&nbsp;&nbsp;
-
-<a href="mailto:karankharade07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-karankharade07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 # 🏆 GitHub Trophy
 
