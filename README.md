@@ -83,6 +83,26 @@
 - 💻 Frontend Web Development
 - 🤖 Embedded Systems & IoT
 
+## 🎓 Education
+
+### Government College of Engineering, Kolhapur
+**Bachelor of Technology (B.Tech)**  
+**Electronics & Telecommunication Engineering**
+
+📅 2023 – 2027
+
+📍 Kolhapur, Maharashtra, India
+
+**Current Focus:**
+- ☁️ Cloud Computing (AWS)
+- 🤖 Embedded Systems
+- 💻 Full Stack Development
+- 📡 IoT & ESP32 Projects
+
+  ## ⚡ Fun Fact
+
+> I enjoy combining Electronics, Embedded Systems, AI, and Cloud Computing to build practical real-world solutions.
+
 # 🏆 GitHub Trophy
 
 ---
