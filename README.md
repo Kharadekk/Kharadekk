@@ -75,7 +75,13 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+## 🏆 Certifications
 
+- ☁️ AWS Cloud Practitioner *(In Progress)*
+- 🐍 Python Programming
+- 🌐 Git & GitHub
+- 💻 Frontend Web Development
+- 🤖 Embedded Systems & IoT
 
 # 🏆 GitHub Trophy
 
