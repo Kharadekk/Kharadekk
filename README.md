@@ -38,7 +38,27 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kharadekk&theme=tokyonight&hide_border=true" />
 </p>
+## 🚀 Featured Projects
 
+### 🤖 AI Assistant using ESP32
+- AI-powered voice assistant using ESP32
+- OLED Display + Microphone + Speaker
+- C++, Arduino IDE
+
+### 🦾 Bluetooth Controlled Robotic Arm
+- ESP32-based robotic arm
+- Bluetooth mobile control
+- Servo motors and DC motors
+
+### 💰 Expense Tracker
+- Flask + SQLite + Bootstrap
+- Add, edit, delete expenses
+- Dashboard with charts
+
+### 🌐 Personal Portfolio Website
+- HTML, CSS, JavaScript
+- Responsive design
+- Modern UI/UX
 ---
 
 # 🏆 GitHub Trophy
