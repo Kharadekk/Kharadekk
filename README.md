@@ -24,10 +24,10 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 B.Tech Electronics & Telecommunication Engineering student at Government College of Engineering, Kolhapur.  
-☁️ Passionate about AWS Cloud Computing, Embedded Systems, and Full-Stack Development.  
-🚀 Building real-world projects using ESP32, Python, Flask, and modern web technologies.  
-📚 Currently preparing for GATE 2026 while continuously improving my programming and cloud skills.
+I'm a B.Tech ENTC student with a strong interest in Cloud Computing, IoT, and Software Development.  
+I enjoy building practical projects using ESP32, Python, Flask, and Java.  
+Currently learning AWS, Docker, Linux, and Data Structures & Algorithms.  
+My goal is to become an AWS Cloud Engineer and contribute to impactful technology solutions.
 ---
 
 # 💻 Tech Stack
