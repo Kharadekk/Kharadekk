@@ -24,6 +24,21 @@
 ---
 
 ## 👨‍💻 About Me
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,tailwind,nodejs,git,github,vscode,linux,aws,docker,arduino" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,linux,git" />
+</p>
 
 - 🎓 B.Tech Electronics & Telecommunication Engineering Student
 - 🌱 Currently learning AWS, Cloud Computing and DevOps
