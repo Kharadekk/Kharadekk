@@ -74,5 +74,11 @@
 - 🌱 Currently learning AWS, Cloud Computing and DevOps
 - 💻 Passionate about Frontend Development
 - 🤖 Building AI & Embedded Systems Projects
-- 🚀 Goal: Become a Cloud & AI Engineer
+----
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kharadekk/Kharadekk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p> 🚀 Goal: Become a Cloud & AI Engineer
 
