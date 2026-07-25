@@ -68,7 +68,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:karankharade07@gmail.com">
+  <a href="karankharade07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="55" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
