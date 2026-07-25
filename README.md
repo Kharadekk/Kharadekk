@@ -43,6 +43,14 @@
 
 # 🏆 GitHub Trophy
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kharadekk&theme=tokyo-night&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kharadekk&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
