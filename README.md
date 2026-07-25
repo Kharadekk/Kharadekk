@@ -63,19 +63,21 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karan-kharade-b1140b3b8/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="karankharade07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/karan-kharade-b1140b3b8">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-  <a href="https://github.com/Kharadekk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="55" />
-  </a>
+<br><br>
+
+📧 **Email:** <a href="mailto:karankharade07@gmail.com">karankharade07@gmail.com</a>
+
+<br><br>
+
+<a href="https://github.com/Kharadekk">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
 </p>
 
 # 🏆 GitHub Trophy
