@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Kharadekk/Kharadekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Karan Kharade
 
-Here are some ideas to get you started:
+🎓 Electronics & Telecommunication Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend Developer
+
+☁️ Learning AWS & Cloud Computing
+
+🤖 ESP32 & Embedded Systems Developer
+
+🌱 Currently learning DevOps, Docker & Kubernetes
+
+🚀 Welcome to my GitHub Profile!
