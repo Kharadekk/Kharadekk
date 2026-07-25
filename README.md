@@ -60,6 +60,21 @@
 - Responsive design
 - Modern UI/UX
 ---
+## 📫 Connect With Me
+
+<p align="center">
+<a href="www.linkedin.com/in/karan-kharade-b1140b3b8">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:YOUR_karankharade07@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/Kharadekk">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+</p>
 
 # 🏆 GitHub Trophy
 
